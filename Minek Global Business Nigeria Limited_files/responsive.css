@@ -1,0 +1,398 @@
+/*------------------------------------------------------------------
+ * Theme Name: NOBIS - Multipurpose Responsive HTML Template
+ * Author: Dazzlersoft
+ * Description: A Bootstrap-3 Responsive  Template
+ * Version: 1.0
+ * Bootstrap  v3.3.7 (http://getbootstrap.com)
+ * Copyright 2017 Dazzlersoft
+ ------------------------------------------------------------------- */
+
+
+@media(max-width:1400px){
+    .header-theme-2 .menu-header{
+       padding: 0 20px;
+    }
+}
+@media(max-width:1199px){
+     .call-us{
+         display: none;
+         float: none;
+     }
+    .partner-img{
+      display: none;
+    }
+    .call-us {
+        padding-left:15px;
+        margin-left: 0px;
+    }
+    .header-theme-2 .menu-header{
+        padding: 0 30px;
+    }
+    .menu-link {
+        padding: 36px 12px 33px;
+    }
+    .comm-content span {
+        display: block;
+        padding-top: 5px;
+        margin-left: 0;
+    }
+    .top-tabs {
+        font-size:20px;
+    }
+}
+
+@media(max-width:991px){
+    .corp-slider.owl-theme .owl-dots {
+        right: auto;
+        left: 50%;
+        top: auto;
+        bottom: 30px;
+        width: 100%;
+    }
+    .corp-slider .owl-dots .owl-dot {
+        display: inline-block;
+    }
+    .slicknav_menu {
+        display:block;
+    }
+    .head-top{
+        display: none;
+    }
+    .nobis-pagination {
+        margin-bottom: 80px;
+    }
+    .counter-wrap {
+        max-width: 100%;
+    }
+    .aut-social {
+        position: relative;
+        margin-top: 20px;
+        right: auto;
+        top: auto;
+    }
+    .price-item{
+        width: 47%;
+        margin-left:1.3%;
+        margin-right:1.3%;
+        display: inline-block;
+        float: none;
+    }
+    .talk-us{
+        text-align: center;
+    }
+    .talk-us .btn-custom {
+        float: none;
+        margin-top: 15px;
+    }
+    .top-tabs i {
+        font-size: 24px;
+        margin-right: 5px;
+    }
+    .top-tabs {
+        font-size: 16px;
+    }
+    .theme-header{
+        display: none;
+    }
+    .abt-mockup{
+        height: auto;
+        margin-bottom: 40px
+    }
+    .mock-2,
+    .mock-1{
+        position: relative;
+        left: auto;
+        right: auto;
+        display: inline-block;
+        margin: 5px
+    }
+    .mock-3{
+        margin-bottom: 40px;
+    }
+    .pie-chart{
+        margin-top: 30px;
+        margin-bottom: 0
+    }
+    .timeline-content h4::after{
+        left: auto;
+        right: 100%;   
+        width: 47px;
+    }
+    .timeline-content h4::before {
+        height: 13px;
+        width: 13px;
+    }
+    .timeline-date {
+        padding: 15px 15px 0;
+    }
+    .blog-social a {
+        font-size: 15px;
+    }
+    .blog-comment-form{
+        margin-bottom: 80px;
+    }
+    .subscribe-title {
+        text-align: center;
+    }
+    .det-list img{
+        margin: 30px 0;
+    }
+    .blog-tags a{
+        margin: 10px 0
+    }
+    .project-thumb-slider{
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .project-thumb {
+        margin-bottom:0;
+        margin: 0 5px;
+    }
+    .project-box li{
+        width: 33.33%;
+        padding: 10px;
+    }
+    .m-detail-img{
+        margin-bottom: 30px
+    }
+    .lapi-holder{
+        margin-bottom: 30px;
+        text-align: center
+    }
+}
+@media(max-width: 767px){
+    .wrapper {
+        margin: 0;
+        -webkit-box-shadow: none;
+                box-shadow: none;
+        border-radius: 0;
+    }
+    .sticky-menu{
+        margin: 0;
+    }
+    .sec-title {
+        padding: 0 10px;
+        font-size: 30px;
+    }
+    .port-item {
+        width: 100%;
+        margin-left:0;
+        margin-right:0;
+    }
+    .vid-play{
+        margin-bottom: 50px;
+        height: 80px;
+    }
+    .vid-btn {
+        top: 0;
+        left: 40%;
+    }
+    
+    .price-item{
+        width:100%;
+        padding: 30px 15px;   
+        margin: 20px 0;
+    }
+    .price-item .btn-custom {
+        font-size: 11px;
+        padding: 13px 22px 10px;    
+    }
+    .subscribe-title {
+        font-size: 30px;
+    }
+    .subscribe-title i {
+        font-size: 35px;
+    }
+
+    .blog-social{
+        position: relative;
+        width: 100%;
+        padding: 0;
+    }
+    .blog-content {
+        padding-left: 16px;
+    }
+    .blog-social a {
+        display: inline-block;
+        padding: 9px 15px;
+    }
+    .top-tabs {
+        width: 50%;
+    }
+    .slide-content h2 {
+        font-size: 35px;
+        max-width: 400px;
+    }
+    .slide-content p{
+        display: none;
+    }
+    .slide-content .btn-custom {
+        font-size: 14px;
+        padding: 11px 0;
+        min-width: 150px;
+    }
+    .popup-inner {
+        padding: 15px;
+        text-align: center
+    }
+    .popup-inner h4 {
+        margin: 30px 0 20px;
+        font-size: 25px;
+        padding-bottom: 8px;
+    }
+    .popup-left,
+    .popup-right{
+        width: 100%;
+    }
+    .popup-right{
+        padding:20px 0 0;
+    }
+    .mock-3{
+        text-align: center;
+    }
+    .mock-3 img{
+        width: 100%;
+    }
+    .detail-box {
+        position: relative;
+        top: auto;
+        margin: 0 auto 30px;
+        max-width: 100%;
+    }
+    .detail-box i {
+        font-size: 22px;
+        width: 30px;
+    }
+    .client-item {
+        padding: 15px 10px;
+    }
+    .owl-carousel .client-img {
+        display: block;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+    .client2-detail {        
+        display: block;
+        text-align: center;
+        padding-left: 0;
+    }
+    .banner-heading h2{
+        font-size:35px;
+    }
+    .banner-link li {
+        font-size: 15px;
+    }
+    .acc-content {
+        padding: 25px;
+    }
+    .acc-img {
+        display: block;
+        width:auto;
+    }
+    .acc-content p {
+        display: block;
+        padding-left: 0;
+        padding-top: 15px;
+    }
+    .page-prev,
+    .page-next{
+        text-align: center;
+        float: none;
+    }
+    .page-next a, 
+    .page-prev a{
+        border-radius:50px; 
+        margin: 10px 0
+    }
+    .det-meta {
+        position: relative;
+        background-color: #000;
+        border-radius: 0;
+        padding: 10px 15px 8px;
+        bottom: auto;
+        width: auto;
+        text-align: center;
+        left: auto;
+        -webkit-transform: translateX(0);
+            -ms-transform: translateX(0);
+                transform: translateX(0);
+    }
+    .com-img,
+    .aut-img{
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .comm-content,
+    .aut-content{
+        display: block;
+        padding-left: 0;
+        text-align: center;
+    }
+    .sub-comm {
+        margin-left:0;
+    }    
+    .project-box li{
+        width: 100%;
+        float: none
+    }
+}
+@media(max-width:576px){
+    .sec-title::after{
+        width: 40px;
+        left: -40px;
+    }
+    .sec-title::before{
+        width: 40px;
+        right: -40px;
+    }
+    .sec-title span::before{
+        width: 25px;
+        right: -25px;
+    }
+    .sec-title span::after{
+        width: 25px;
+        left: -25px;
+    }
+    .price .nav-pills {
+        font-size: 0;
+        display: block;
+        border-radius: 0;
+        border: 0;
+    }
+    .price .nav-pills li {
+        margin: 5px;
+        overflow: hidden;
+        border-radius: 50px;
+    }
+    .price .nav-pills li a {
+        padding: 16px 25px;
+        border: 1px solid #0c65ed;
+        border-radius: 50px;
+    }
+    .top-tabs {
+        width: 98%;
+        color: #000;
+        border: 1px solid #959595;
+        background-color: #fff;
+        margin:1%;
+    }
+    .slider-tabs{
+        position: relative;
+        border-top:0;
+        margin-top: 50px;
+    }
+    .form-subscribe{
+        padding-right: 0;
+        text-align: center;
+    }
+    .form-subscribe .btn-custom{
+        margin-top: 10px;
+        position: relative;
+    }
+}
+@media(max-width: 767px) and (min-width:576px){
+   .col-xs-12{
+    width: 50%;
+   }
+}
